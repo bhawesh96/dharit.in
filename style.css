@@ -311,6 +311,9 @@ body{
 	float: left;
 	padding: 1em 0em;
 }
+.header .logo img {
+	height: 72px;
+}
 .header .navbar {
 	background: none;
 	box-shadow: none;
