@@ -9,7 +9,7 @@ jQuery(document).ready(function($) {
                     email: $('#email').val(),
                     phone: $('#phone').val(),
                     message: $('#message').val(),
-                    subject: $('#datepicker').val(),
+                    service: $('#datepicker').val(),
                     to_email: 'bhansalibhawesh85@gmail.com'
                   }),
             dataType: 'json',
